@@ -1,0 +1,9 @@
+input[type="checkbox"] {
+  min-width: 15px;
+}
+
+@media (max-width: 575.98px) {
+  span {
+    font-size: smaller;
+  }
+}
